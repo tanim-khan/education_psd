@@ -1,0 +1,323 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+ /*nav start*/
+.navbar-toggler-icon {
+    width: 17px;
+    height: 32px;
+}
+ /*bannar start*/
+ .bannar h1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-size: 25px;
+}
+/*kid1 start*/
+.kid1 {
+    padding: 30px;
+}
+.c_h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.c_hr {
+    border-bottom: 3px dashed;
+    width: 200px;
+    margin-bottom: 30px;
+}
+.k_img {
+    margin-top: 15px;
+}
+/*kid2 start*/
+.k_content p { 
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.k_content img {
+    margin-bottom: 5px;
+}
+.kid2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/*twitter start*/
+.t_p2 {
+    margin-bottom: 60px;
+}
+.t_text{
+    text-align: center;
+}
+.icon{
+    margin-left: 90px;
+}
+.t_img{
+    margin-bottom: 15px;
+}
+/*teach start*/
+.teach{
+    padding-bottom: 50px;
+}
+/*event start*/
+.e_img{
+    text-align: center;
+}
+.e_text{
+    text-align: center;
+}
+.k_h{
+    text-align: center;
+}
+.e_hr{
+    margin:auto;
+    margin-bottom: 20px;
+}
+.e_title{
+    text-align: center;
+}
+.e_hr2{
+    margin:auto;
+    margin-bottom: 20px;
+}
+.r_margin{
+    text-align: center;
+}
+.r_hr{
+    margin:auto;
+}
+.r_hr2{
+    margin:auto;
+}
+.r_hr3{
+    margin:auto; 
+}
+.r_img{
+    margin-bottom: 20px;
+}
+/*contact start*/
+.contact1 {
+     margin-top: 0px;
+    margin-bottom: 100px;
+}
+.u_hr {
+    margin-right: 217px;
+}
+.insta {
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+.us {
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+.n_hr {
+    margin-right: 177px;
+}
+
+.news {
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+/*footer start*/
+.float-right{
+    float: none !important;
+    text-align: center;
+
+}
+.f_list ul li a{
+    font-size: 12px;
+   
+}
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*bannar start*/
+.bannar h1 {
+    margin-top: 150px;
+    margin-bottom: 150px;
+    font-size: 35px;
+}
+/*kid1 start*/
+.k_text img {
+    margin-bottom: 15px;
+}
+/*kid2 start*/
+.k_content p { 
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.k_content img {
+    margin-bottom: 5px;
+}
+.kid2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/*twitter start*/
+.t_p2 {
+    margin-bottom: 60px;
+}
+.t_text{
+    text-align: center;
+}
+
+.icon{
+    margin-left: 200px;
+}
+.t_img{
+    margin-bottom: 15px;
+}
+/*teach start*/
+.teach{
+    padding-bottom: 50px;
+}
+/*event start*/
+.e_img{
+    text-align: center;
+}
+.e_text{
+    text-align: center;
+}
+.k_h{
+    text-align: center;
+}
+.e_hr{
+    margin:auto;
+    margin-bottom: 20px;
+}
+.e_title{
+    text-align: center;
+}
+.e_hr2{
+    margin:auto;
+    margin-bottom: 20px;
+}
+.r_margin{
+    text-align: center;
+}
+.r_hr{
+    margin:auto;
+}
+.r_hr2{
+    margin:auto;
+}
+.r_hr3{
+    margin:auto; 
+}
+.r_img{
+    margin-bottom: 20px;
+}
+/*contact start*/
+.insta {
+    margin-bottom: 100px;
+    margin-top: 300px;
+}
+.contact1 {
+    margin-top: 260px;
+    margin-bottom: 100px;
+}
+.u_hr {
+    margin-right: 217px;
+}
+.us {
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+.news {
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+.n_hr{
+    margin-right: 217px;
+}
+/*footer start*/
+.float-right{
+    float: none !important;
+    text-align: center;
+
+}
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*bannar start*/
+.bannar h1 {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+/*kid1 start*/
+.k_img {
+    margin-top: 25px;
+}
+/*twitter start*/
+.t_p2 {
+    margin-bottom: 80px;
+}
+.img-fluid {
+    margin-top: 65px;
+}
+/*event start*/
+.k_h1 {
+    text-align: center;
+}
+.e_hr {
+    margin-right: auto;
+}
+.img-fluid {
+    margin-top: auto;
+}
+.e_hr2 {
+    margin-right: auto;
+}
+.r_hr {
+    margin-right: 85px;
+}
+.r_hr2 {
+    margin-right: 85px;
+}
+.r_hr3 {
+    margin-right: 85px;
+}
+/*contact start*/
+.insta {
+    margin-bottom: 100px;
+    margin-top: 300px;
+}
+.contact1 {
+    margin-top: 260px;
+    margin-bottom: 100px;
+}
+.u_hr {
+    margin-right: 217px;
+}
+.us {
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+.news {
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+.n_hr{
+    margin-right: 217px;
+}
+/*footer start*/
+.float-right{
+    float: none !important;
+    text-align: center;
+
+}
+
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ }
+
+
+
